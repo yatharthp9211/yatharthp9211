@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://yatharthpandey.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-yatharthpandey.dpdns.org-0062A1?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="mailto:hello@yatharthpandey.com"><img src="https://img.shields.io/badge/Email-hello%40yatharthpandey.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hello@yatharthpandey.com"><img src="https://img.shields.io/badge/Email-yatharthp9211%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=yatharthp9211&color=0062A1&style=flat-square" alt="Profile views"/>
 </p>
 
